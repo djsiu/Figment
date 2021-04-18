@@ -1,5 +1,7 @@
 # Figment
-This is my final project in IAT 167. This project was made using Processing. <br><br>
+This is my final project in IAT 167. This project was made using Processing. <br>
+
+Here is a walkthrough video of the game: https://youtu.be/S5vZ_7zvynA <br>
 
 I have created a tile based game where the player must navigate the game world and advance through 
 the 3 levels and 1 boss level in order to complete the game. In each level there is a key which must 
