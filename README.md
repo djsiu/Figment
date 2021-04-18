@@ -8,7 +8,7 @@ opens once the player defeats all the enemies in the that level. <br>
 
 Note: all the graphics in the game were created by me<br>
 
-####SOURCES:
+#### SOURCES:
 - door sound effect: https://www.youtube.com/watch?v=Kx4PBQzE60w&ab_channel=VideoPlasty
 - powerup, key, punch, and hit sound effect: https://www.zapsplat.com/
 - intro, gameplay, boss, endgame and lose songs: https://soundimage.org/
